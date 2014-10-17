@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[frs:home|Door43 (frs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-frs|d43-frs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-frs/archive/master.zip|d43-frs.zip]]
+
+**Recent Changes**
+{{changes>ns = frs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/frs|Ethnologue data]]
+
